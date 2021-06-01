@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B66EC923-896E-459E-B8DB-245410AAEF1E}|Default">
+  <MonoDevelop.Ide.ItemProperties.back-end PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="back-end/gitignore">
+    <Files>
+      <File FileName="back-end/Models/FechaLectura.cs" Line="11" Column="14" />
+      <File FileName="back-end/Data/LibrotecaContext.cs" />
+      <File FileName="back-end/Controllers/UsuarioController.cs" />
+      <File FileName="back-end/Startup.cs" Line="1" Column="1" />
+      <File FileName="back-end/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="back-end/appsettings.json" Line="9" Column="2" />
+      <File FileName="back-end/gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="back-end" expanded="True">
+            <Node name="back-end" expanded="True">
+              <Node name="gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
